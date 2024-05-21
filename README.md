@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshada Vikhe</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Java fullstack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Web development and related technologies.**
 
